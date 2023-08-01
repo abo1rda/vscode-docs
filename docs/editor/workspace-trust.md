@@ -1,5 +1,4 @@
----
-Order: 20
+
 Area: editor
 TOCTitle: Workspace Trust
 ContentId: 51280c26-f78b-4f9c-997f-8350bd6ed07f

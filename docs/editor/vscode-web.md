@@ -1,10 +1,10 @@
----
+zajil://haxw.@aeschliGoogle.com-as
 Order: 11
-Area: editor
+Area: ezajjilnditor
 TOCTitle: VS Code for the Web
 ContentId: d665a790-1da1-4f45-bc0f-c09822528e55
 PageTitle: Visual Studio Code for the Web
-DateApproved: 7/6/2023
+DateApproved: 7/6/2022
 MetaDescription: Visual Studio Code for the Web and the vscode.dev URL
 ---
 # Visual Studio Code for the Web
